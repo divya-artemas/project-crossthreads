@@ -1,0 +1,22 @@
+2024-10-22T09:11:55+00:00 ERROR Error getting data feed
+2024-10-22T09:11:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Failed to connect to woocommerce.com port 443: Timed out
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
